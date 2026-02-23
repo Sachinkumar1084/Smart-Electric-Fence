@@ -1,0 +1,20 @@
+DESCRIPTION OF THE INVENTION: 
+This invention relates to an automated IoT-based framework for monitoring and tamper detection in security fence systems used in rural and industrial areas. The proposed system continuously monitors the electrical status of the security fence using voltage and current sensors. The acquired values are compared to predefined thresholds by a microcontroller. If any abnormality such as wire cutting, grounding, or short circuit is detected, the system automatically activates an alarm, sends a message via a GSM module, and, if necessary, shuts off the power supply using a relay. This system operates fully automatically and provides real-time security without human intervention. Its design is low-cost, scalable, and suitable for rural environments.
+
+A.	PROBLEM ADDRESSED BY THE INVENTION: 
+
+Currently, the security fencing systems used in rural and industrial areas suffer from the following significant problems:
+1.	Only physical barriers: Existing security fence systems provide only physical security and lack real-time monitoring capabilities.
+2.	Delayed detection of tampering: Events such as wire cutting, grounding, or short circuits are often detected late, increasing the risk of theft, intrusion, and property damage.
+3.	Reliance on manual inspection: Most systems rely on human inspection, which is time-consuming, labor-intensive, and impractical, especially in large or remote areas.
+4.	Limitations of camera-based solutions: Camera-based security systems are expensive and do not function effectively in rural areas due to network limitations.
+5.	Lack of automated alert system: Current systems lack immediate alerts or automated response mechanisms, preventing timely intervention.
+6.	Lack of security response: Existing systems are unable to automatically shut off power or activate security measures in case of an anomaly.
+B.	OBJECTIVE OF THE INVENTION (Provide minimum two)
+Primary Objectives
+
+1.	Development of an Automated Real-Time Monitoring System: To develop an automated system for continuous real-time monitoring of security fences in rural and industrial areas, capable of detecting tampering based on electrical anomalies.
+2.	Instant Alerts and Automated Power Control: To provide immediate alerts in case of wire cuts, grounding, or short circuits, and to automatically shut off the power supply when necessary to ensure safety.
+3.	Low-Cost and Scalable Infrastructure: To provide a cost-effective, scalable, and rural-friendly infrastructure that reduces the need for manual inspections and significantly improves response times.
+4.	Operation Without Human Intervention: To make the system fully autonomous, enabling it to continuously monitor, make decisions, and respond without human intervention.
+5.	Maintaining Security Fence Integrity: To continuously monitor the electrical condition of the security fence to maintain its functionality and reliability and prevent potential damage at an early stage.
